@@ -4,22 +4,32 @@ $animals = [
   [
     "animal_name" => "Cougar",
     "latin_name" => "Puma concolor",
-    "distribution" => "America",
+    "location" => "America",
+    "weight" => 100,
   ],
   [
     "animal_name" => "Amur leopard",
     "latin_name" => "Panthera pardus orientalis",
-    "distribution" => "Asia",
+    "location" => "Asia",
+    "weight" => 90,
   ],
   [
     "animal_name" => "Jaguar",
     "latin_name" => "Panthera onca",
-    "distribution" => "America",
+    "location" => "America",
+    "weight" => 96,
   ],
   [
     "animal_name" => "Eurasian lynx",
     "latin_name" => "Lynx lynx",
-    "distribution" => "Europe",
+    "location" => "Europe",
+    "weight" => 30,
+  ],
+  [
+    "animal_name" => "Snow leopard",
+    "latin_name" => "Panthera uncia",
+    "location" => "Asia",
+    "weight" => 70,
   ],
 ];
 ?>
